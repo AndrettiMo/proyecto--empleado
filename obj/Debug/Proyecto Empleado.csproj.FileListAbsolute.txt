@@ -1,0 +1,11 @@
+c:\users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\bin\Debug\Proyecto Empleado.exe.config
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\bin\Debug\Proyecto Empleado.exe
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\bin\Debug\Proyecto Empleado.pdb
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\bin\Debug\MySql.Data.dll
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto Empleado.csprojResolveAssemblyReference.cache
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto_Empleado.frmLogin.resources
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto_Empleado.Presentacion1.frmPrincipal.resources
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto_Empleado.Properties.Resources.resources
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto Empleado.csproj.GenerateResource.Cache
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto Empleado.exe
+C:\Users\fabian\documents\visual studio 2015\Projects\Proyecto Empleado\Proyecto Empleado\obj\Debug\Proyecto Empleado.pdb
